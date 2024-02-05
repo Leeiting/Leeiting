@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=010304&random=false&width=600&height=100&lines=My+name+is+I-ting%2C+Lee;From+NTUST+;Currently+intern+in+HFEL+IsysE%2C+KAIST)](https://git.io/typing-svg)
 
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />I-ting, Lee Leeiting
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />I-ting, Lee 
 
 
 
