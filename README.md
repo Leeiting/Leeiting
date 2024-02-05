@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&random=false&width=435&lines=My+name+is+I-ting%2C+Lee;From+NTUST+;Currently+intern+in+HFEL+IsysE%2C+KAIST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=010304&random=false&width=600&height=100&lines=My+name+is+I-ting%2C+Lee;From+NTUST+;Currently+intern+in+HFEL+IsysE%2C+KAIST)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm I-ting, Lee</h1>
 <h3 align="center">My name is I-ting Lee, and I am from the National Taiwan University of Science and Technology. I am currently interning at the HFEL laboratory in the Industrial and Systems Engineering, KAIST.</h3>
