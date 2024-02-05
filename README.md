@@ -30,7 +30,7 @@
 - SPSS
 
 ## 🔗 Get in touch
-- Linkedin: [http://ms314006.github.io/](https://www.linkedin.com/in/i-ting-lee-aa88a816a/](https://www.linkedin.com/in/i-ting-lee-aa88a816a/)
+- Linkedin: [https://www.linkedin.com/in/i-ting-lee-aa88a816a/)
   
 
 
