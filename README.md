@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **human-computer interaction**
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **ting900901@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xBd2vsv6r3TCqmOqpATN-umoA9jnFvHU/view?usp=sharing](https://drive.google.com/file/d/1xBd2vsv6r3TCqmOqpATN-umoA9jnFvHU/view?usp=sharing)
