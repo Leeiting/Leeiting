@@ -30,7 +30,7 @@
 - SPSS
 
 ## 🔗 Get in touch
-- Linkedin: [https://www.linkedin.com/in/i-ting-lee-aa88a816a/)
+- Linkedin: https://www.linkedin.com/in/i-ting-lee-aa88a816a/
   
 
 
