@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=010304&random=false&width=600&height=100&lines=My+name+is+I-ting%2C+Lee;From+NTUST+;Currently+intern+in+HFEL+IsysE%2C+KAIST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&letterSpacing=narrow&pause=500&color=000000&center=%E9%8C%AF%E8%AA%A4%E7%9A%84&vCenter=%E9%8C%AF%E8%AA%A4%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%8C%AF%E8%AA%A4%E7%9A%84&width=435&lines=I'm+I-ting%2C+Lee.;I%E2%80%99m+a+Computer+Science+student%2C+;studying+Human-Computer+Interaction;in+University+of+Nottingham.)](https://git.io/typing-svg)
 
 ## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />I-ting, Lee 
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying in **Human-Computer Interaction**
 
-- 👯 I’m looking to collaborate on **UX Design**
+- 👯 I’m looking to collaborate on **User-Centered Design**
 
 - 📫 How to reach me **ting900901@gmail.com**
 
