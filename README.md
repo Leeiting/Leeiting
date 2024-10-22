@@ -6,9 +6,9 @@
 
 <h1 align="center">Hi 👋, I'm I-ting, Lee</h1>
 
-- 🔭 I’m currently working on **Obstacle size and difficulty perception in Virtual Reality and Real-world**
+- 🔭 I’m currently studying in **Human-Computer Interaction**
 
-- 👯 I’m looking to collaborate on **human-computer interaction**
+- 👯 I’m looking to collaborate on **UX Design**
 
 - 📫 How to reach me **ting900901@gmail.com**
 
